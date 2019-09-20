@@ -65,8 +65,8 @@
     <Compile Include="Assets\Scripts\Component\AgentComponent.cs" />
     <Compile Include="Assets\Scripts\Mono\LogicUpdater.cs" />
     <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
-    <Compile Include="Assets\Scripts\System\AIAgentSystem.cs" />
-    <Compile Include="Assets\Scripts\System\LogicMainSystem.cs" />
+    <Compile Include="Assets\Scripts\System\Logic\Logic_AIAgentSystem.cs" />
+    <Compile Include="Assets\Scripts\System\Logic\LogicMainSystem.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>K:/ecsgit/pro/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
